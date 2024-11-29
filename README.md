@@ -112,7 +112,7 @@ To disable this behavior and use the existing`analysis_options.yaml` file instea
 
 ```
 # Use existing options to perform dartanalyzer analysis
-sonar.dart.analyzer.options.override=true
+sonar.dart.analyzer.options.override=false
 ```
 
 ### Multi-module sample
