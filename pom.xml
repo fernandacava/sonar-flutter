@@ -60,7 +60,7 @@
 
         <sonar.version>7.9</sonar.version>
 
-        <assertj.version>3.5.2</assertj.version>
+        <assertj.version>3.27.7</assertj.version>
         <junit.version>4.13.1</junit.version>
         <mockito.version>4.4.0</mockito.version>
         <sslr.version>1.23</sslr.version>
